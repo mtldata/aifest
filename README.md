@@ -1,3 +1,13 @@
+To accelerate the growth and development of business-led innovation superclusters in Canada, applicants must set out an approach to building a supercluster advantage for their regional innovation ecosystem that translates into new commercial and global opportunities for growth and competitiveness.
+
+The approach should leverage strengths, address gaps, and incent innovation ecosystem players to work together more strategically around five themes of activity for the collective benefit of the cluster:
+
+- Technology leadership (mandatory)—collaborative projects that directly enhance the productivity, performance and competitiveness of member firms
+- Partnerships for scale—activities serving a target group of cluster firms to enable their growth, including by increasing domestic demand for cluster products and services or by facilitating expansion
+- Diverse and skilled talent pools—activities enhancing regional labour force skills and capabilities or initiatives addressing industry needs for talent
+- Access to innovation—investing in and providing access to assets, services or resources that benefit a range of cluster firms over a period of time
+- Global advantage—activities and initiatives that position the cluster and its strengths as world-leading, enable firms to seize market opportunities, and attract international investments and partnerships
+
 # Montreal AI: 100M for a new Quebec research cluster in AI
 Artificial intelligence is the new electricity. How can we all benefit from it?
 
